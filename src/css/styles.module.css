@@ -1,0 +1,15 @@
+.test {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  text-align: center;
+  margin: 2rem auto;
+}
+.test h2 {
+  padding: 1rem 2rem;
+  color: #98beff;
+  box-shadow: 0 2px 4px 0 rgba(109, 109, 109, 0.1), 0 2px 4px -1px rgba(109, 109, 109, 0.1);
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=styles.module.css.map */
